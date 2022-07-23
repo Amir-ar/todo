@@ -66,4 +66,7 @@ nav.nav-bar a{
 nav.nav-bar a:hover{
   background-color: #333;
 }
+nav a.router-link-exact-active{
+  background-color: #333;
+}
 </style>
