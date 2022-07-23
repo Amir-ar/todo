@@ -187,9 +187,7 @@ button.Edit:hover i.fa-pencil-square-o{
 button.Edit:hover i.fa-pencil-square{
   display: block;
 }
-button.important i.fa-star{
 
-}
 button.important:hover i.fa-star{
     display: block;
 }
